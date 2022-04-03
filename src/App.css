@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.link {
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+a:active {
+  background-color: #6aa5e0;
+  color: rgb(179, 179, 179);
+}
